@@ -1,0 +1,12 @@
+Overall Diameter: 0.0293
+Mass: 13.734
+MBL: 114000 
+GMR: 11.29
+Expansion: 23
+Resistance: 0.073
+CSA: 506
+
+% Overall Diameter in m, Mass in N/m, MBL in N, GMR in mm
+% Expansion in C*10^6
+% Resistance in Ohms/Km @ 75 Degrees C
+% Cross Sectional Area (CSA) in mm^2
